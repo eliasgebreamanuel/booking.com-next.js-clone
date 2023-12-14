@@ -91,7 +91,7 @@ function SearchForm() {
                     <FormControl>
                       <Button
                         id="date"
-                        name="dates"
+                        name="dates"a
                         variant={"outline"}
                         className={cn(
                           "w-[300px] justify-start text-left font-normal",
